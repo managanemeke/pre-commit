@@ -2,6 +2,20 @@
 
 Configuration for [pre-commit][1].
 
+## run
+
+### staged
+
+```bash
+pre-commit run
+```
+
+### all
+
+```bash
+pre-commit run --all-files
+```
+
 ## hooks installation
 
 ```bash
